@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Self-Nebras",
+  "short_name": "Self-Nebras",
+  "description": "بوابة الخدمة الذاتية للموظفين - النبراس",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f5f8",
+  "theme_color": "#123b5d",
+  "prefer_related_applications": false,
+  "icons": [
+    {"src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
